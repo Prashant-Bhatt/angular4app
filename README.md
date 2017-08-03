@@ -12,6 +12,8 @@ If ng is not install install Angular Cli first
 
 npm install -g @angular/cli
 
+or check  [Angular CLI](https://github.com/angular/angular-cli)
+
 # Project Install
 1) Create a folder, open it and clone/download git repo
 2) Run npm install to install all modules
