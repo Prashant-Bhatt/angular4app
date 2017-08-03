@@ -8,6 +8,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 # Installation Instructions
 
+If ng is not install install Angular Cli first
+
+npm install -g @angular/cli
+
+# Project Install
 1) Create a folder, open it and clone/download git repo
 2) Run npm install to install all modules
 
